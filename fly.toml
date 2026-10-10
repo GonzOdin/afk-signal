@@ -1,5 +1,5 @@
 # Change the app name to whatever you picked on Fly.io.
-app = "afk-apocalypse-signal"
+app = "afk-apocalypse-play"
 primary_region = "sea"
 
 [env]
